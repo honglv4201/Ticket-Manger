@@ -1,0 +1,9 @@
+[submodule "TicketManager-Server"]
+	path = TicketManager-Server
+	url = https://github.com/honglv4201/TicketManager-Server.git
+[submodule "TicketManager-Client"]
+	path = TicketManager-Client
+	url = https://github.com/honglv4201/TicketManager-Client.git
+[submodule "TicketManager-Admin-Client"]
+	path = TicketManager-Admin-Client
+	url = https://github.com/honglv4201/TicketManager-Admin-Client
