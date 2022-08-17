@@ -35,8 +35,8 @@ TicketManager is a website that helps users easily book train tickets on pc, mob
   - Client: https://hl-ticketmanager.netlify.app/
   - Admin: https://admin-ticketmanager.netlify.app/
 - Account for admin:
-  email: hongadmin@gmail.com
-  password: 123123
+  - email: hongadmin@gmail.com
+  - password: 123123
 
 # Contact
 
