@@ -40,4 +40,4 @@ TicketManager is a website that helps users easily book train tickets on pc, mob
 
 # Contact
 
-Contact me at this email: lamvanhongvn@gmail.com. Thank you!!
+Contact me at this email: 19520094@gm.uit.edu.vn. Thank you!!
